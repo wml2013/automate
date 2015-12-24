@@ -6,6 +6,7 @@ chocolatey install 7zip -y
 chocolatey install filezilla -y
 chocolatey install speccy -y
 chocolatey install ccleaner -y
+chocolatey install treesizefree -y
 
 chocolatey upgrade chocolatey
 chocolatey upgrade ccleaner
@@ -13,3 +14,4 @@ chocolatey upgrade 7zip
 chocolatey upgrade filezilla
 chocolatey upgrade defraggler
 chocolatey upgrade speccy
+chocolatey upgrade treesizefree
